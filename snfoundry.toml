@@ -1,0 +1,4 @@
+[sncast]
+account  = "argentaccount"
+network = "sepolia"
+url = "https://starknet-sepolia.public.blastapi.io"
