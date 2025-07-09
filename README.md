@@ -25,3 +25,14 @@
 ## On-Chain Rewards: Winners areautomatically awarded tokens for ther creative submissions.
 
 7.Admin Dashboard: A dedicated interface to view and manage user submissions.
+
+## Contributors Actions points
+   1. Ensure proper frontend connection
+   2. Develop logic to reward the top 3 users that have submitted pics
+   3. And transfer strk to the top3 users that have topped the others
+   4. Logic to enable users tweet, the challenge, generate a twwet template
+
+## How to contribute
+  1. Fork the repo
+  2 . Since i used cursor AI, its better to change the project to something like scaffold as its easier to use
+  3. Checkout scarb.toml for project dependencies
