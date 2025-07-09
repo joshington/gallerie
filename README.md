@@ -33,6 +33,6 @@
    4. Logic to enable users tweet, the challenge, generate a twwet template
 
 ## How to contribute
-  1. Fork the repo
+  1. Fork the repo\
   2 . Since i used cursor AI its better to change the project to something like scaffold as its easier to use
   3. Checkout scarb.toml for project dependencies
